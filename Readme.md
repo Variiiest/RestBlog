@@ -20,7 +20,7 @@
 
 
 Json Format:
-<code> {
+``` {
         "id": 1,
         "title": "",
         "body": "",
@@ -30,4 +30,4 @@ Json Format:
         ],
         "categories": []
     } 
-</code>
+```
