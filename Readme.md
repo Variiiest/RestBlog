@@ -1,13 +1,13 @@
 # Blog API using Django rest framework
 ## Getting started
 
-Steps:
+### Steps:
 1. Clone/pull/download this repository
 2. Create a virtualenv with `virtualenv env` and install dependencies with `pip install -r requirements.txt`
 3. Run Command `python manage.py runserver`
 
 
-APIs:
+### APIs:
 1: Post `http://127.0.0.1:8000/posts`    
 
 2: Post Detail `http://127.0.0.1:8000/posts/<pk>`
@@ -20,7 +20,7 @@ APIs:
 
 
 Json Format:
-` {
+<code> {
         "id": 1,
         "title": "",
         "body": "",
@@ -30,4 +30,4 @@ Json Format:
         ],
         "categories": []
     } 
-`
+</code>
