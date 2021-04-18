@@ -19,7 +19,7 @@
 5: Categories `http://127.0.0.1:8000/categories/`
 
 
-Json Format:
+### Json Format:
 ``` 
 {
         "id": 1,
